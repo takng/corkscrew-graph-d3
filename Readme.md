@@ -2,11 +2,11 @@
 
 ## Corkscrew Graph
 
-The problem that the corkscrew solves is representing data on a continuum (timeline for example) where the time between ticks is not equidistant. It is difficult to judge visually the relative distance between points that are not equidistant.
+The problem that the corkscrew solves is representing data on a continuum (timeline for example) where the data between ticks (gap) is *_not_* equal but the display distance *_is_* equal. It is difficult to judge visually the relative distance between points that are not equidistant.
 
 ### UI
 
-Waves instead of lines show the relative distance of the gaps between ticks. Triangles waves are the simplest, however, sine waves would be most ideal.
+Waves instead of lines show the relative distance of the gaps between ticks. Triangles waves are perhaps the simplest, however, sine waves would be most ideal.
 
 ##### Example
 Using the numbers `5, 6, 7, 20, 21, 24, 30, 100`
